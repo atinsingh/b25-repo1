@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98833835-58e0-4d2e-9847-4163350c0983" name="Default Changelist" comment="">
 
+=======
+    <list default="true" id="6337baa2-7970-4b37-b201-61b2b94d9571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/b25-repo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/saumya/Saumya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 667efba0c302a2e77028c55f0183aaa15f4872a0
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
 
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,58 +42,76 @@
   <component name="ProjectId" id="1bg3OGBD2mR0d8l8I6WdPtBpQzQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
+
 =======
   <component name="ProjectId" id="1bg6ddAsPEhhXtVnNiVEDa2xwUM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
->>>>>>> 11dd2261d1ee6a9f2ff89b043bd261d7daf4ec8d
-    <option name="showLibraryContents" value="true" />
+
+
+
+=======
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/maven-first.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+>>>>>>> 667efba0c302a2e77028c55f0183aaa15f4872a0
   </component>
+  <component name="ProjectId" id="1bg4iqim75ecet9vQAdmVkuJGx8" />
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-<<<<<<< HEAD
+
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
 =======
 >>>>>>> 11dd2261d1ee6a9f2ff89b043bd261d7daf4ec8d
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e7de04ef-21ce-4566-b4bc-68c045484f74" name="Default Changelist" comment="" />
-      <created>1589041478756</created>
+      <changelist id="6337baa2-7970-4b37-b201-61b2b94d9571" name="Default Changelist" comment="" />
+      <created>1589040533260</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1589039875823</updated>
-      <workItem from="1589039883350" duration="163000" />
-      <workItem from="1589041336561" duration="1114000" />
-=======
-      <updated>1589041478756</updated>
->>>>>>> 11dd2261d1ee6a9f2ff89b043bd261d7daf4ec8d
+
     </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-<<<<<<< HEAD
+
+>>>>>>> 667efba0c302a2e77028c55f0183aaa15f4872a0
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+
+>>>>>>> 667efba0c302a2e77028c55f0183aaa15f4872a0
           </value>
         </entry>
       </map>
     </option>
-=======
+
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -93,5 +130,7 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="679" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589041337451" />
+=======
+>>>>>>> 667efba0c302a2e77028c55f0183aaa15f4872a0
   </component>
 </project>
