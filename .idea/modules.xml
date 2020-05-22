@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/maven-first.iml" filepath="$PROJECT_DIR$/maven-first.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/b25-repo1.iml" filepath="$PROJECT_DIR$/.idea/b25-repo1.iml" />
->>>>>>> 11dd2261d1ee6a9f2ff89b043bd261d7daf4ec8d
     </modules>
   </component>
 </project>
